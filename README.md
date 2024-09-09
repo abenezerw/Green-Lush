@@ -3,11 +3,12 @@
 
 > [!IMPORTANT]
 > This is not a standalone theme, needs [Hyprdots](https://github.com/prasanthrangan/hyprdots) installed...
-
-
-
-https://github.com/prasanthrangan/hyprdots-mod/assets/106020512/0c7f12a8-11f2-4a16-890e-44f07a860636
-
+> 
+![t1](./Screenshots/wallpaper.png)
+![t2](./Screenshots/zed+fastfetch.png)
+![t3](./Screenshots/rofi+wallpaper.png)
+![t4](./Screenshots/superfile.png)
+![t5](./Screenshots/spf+vscode+spotify.png)
 
 > [!NOTE]
 > WORK IN PROGRESS...
