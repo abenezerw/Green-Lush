@@ -11,7 +11,7 @@
 > This is not a standalone theme, needs [Hyprdots](https://github.com/prasanthrangan/hyprdots) installed...
 
 > [!NOTE]
-> Work In Progress...
+> Working on color contrast in files.
 
 > [!CAUTION]
 > Just put this here cause i wanted to make it purple blue red. colors of 3 haha.
