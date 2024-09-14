@@ -4,11 +4,9 @@
 ![t2](./Screenshots/WallsSelection.png)
 ![t3](./Screenshots/vsandro+fast.png)
 ![t4](./Screenshots/rofi+wallpaper.png)
-![t5](./Screenshots/superfile.png)
-![t6](./Screenshots/spf+vscode+spotify.png)
 
 > [!IMPORTANT]
-> This is not a standalone theme, needs [Hyprdots](https://github.com/prasanthrangan/hyprdots) installed...
+> This is not a standalone theme, needs [HyDE](https://github.com/prasanthrangan/hyprdots) installed...
 
 > [!NOTE]
 > Working on color contrast in files.
