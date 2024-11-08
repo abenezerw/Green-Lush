@@ -14,7 +14,7 @@
 > [!CAUTION]
 > Just put this here cause i wanted to make it purple blue red. colors of 3 haha.
 
-## Installation
+## 🔰 Installation
 
 ```sh
 Hyde theme patch // and choose Green Lush
